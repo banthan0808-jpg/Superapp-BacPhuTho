@@ -1,0 +1,251 @@
+{
+  "logoUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/Logo%20VietinBank.png",
+  "contact": {
+    "name": "Trần Hoàng Trung",
+    "role": "Chuyên viên tư vấn",
+    "phone": "0973.874.232"
+  },
+  "branchHours": {
+    "weekdays": {
+      "morning": "07:30 AM - 11:30 AM",
+      "afternoon": "01:00 PM - 04:30 PM"
+    },
+    "weekends": "Nghỉ giao dịch"
+  },
+  "faqGuides": [
+    {
+      "id": "1",
+      "title": "Hướng dẫn quên mật khẩu Ipay",
+      "videoUrl": "https://www.youtube.com/watch?v=86r0pxPOzbs",
+      "steps": [
+        {
+          "step": 1,
+          "text": "Ở màn hình đăng nhập, chọn Quên mật khẩu.",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/1.1.png"
+        },
+        {
+          "step": 2,
+          "text": "Nhập tên đăng nhập và số điện thoại đăng ký sau đó bấm “Tiếp tục”",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/1.2.png"
+        },
+        {
+          "step": 3,
+          "text": "Nhập mã OTP được gửi về tin nhắn SMS, sau đó bấm Tiếp tục",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/1.3.png"
+        },
+        {
+          "step": 4,
+          "text": "Xác thực khuôn mặt theo yêu cầu. Sau khi hoàn thành Ipay sẽ gửi mật khẩu mới về tin nhắn (SMS). Bấm đăng nhập Ipay để tiếp tục",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/1.4.png"
+        },
+        {
+          "step": 5,
+          "text": "Nhập mật khẩu theo yêu cầu. Mật khẩu hiện tại: Nhập theo mật khẩu được gửi về tin nhắn (SMS). Mật khẩu mới: Là mật khẩu mà khách hàng cần đổi. Bấm Tiếp tục",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/1.5.png"
+        },
+        {
+          "step": 6,
+          "text": "Thực hiện quét khuôn mặt để xác nhận đổi mật khẩu thành công",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/1.6.png"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Hướng dẫn đóng thẻ",
+      "videoUrl": "https://www.youtube.com/watch?v=acdT3KxET40",
+      "steps": [
+        {
+          "step": 1,
+          "text": "Đăng nhập vào App VietinBank Ipay",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/2.1.png"
+        },
+        {
+          "step": 2,
+          "text": "Vào mục danh sách thẻ",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/2.2.png"
+        },
+        {
+          "step": 3,
+          "text": "Xem đúng thẻ cần đóng, bấm vào phần xem thêm",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/2.3.png"
+        },
+        {
+          "step": 4,
+          "text": "Chọn đóng thẻ",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/2.4.png"
+        },
+        {
+          "step": 5,
+          "text": "Nhập mã OTP",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/2.5.png"
+        },
+        {
+          "step": 6,
+          "text": "Xác nhận OTP",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/2.6.png"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Xác thực CCCD gắn chip",
+      "videoUrl": "https://www.youtube.com/watch?v=9yYn3SbMT9A",
+      "steps": [
+        {
+          "step": 1,
+          "text": "Đăng nhập VietinBank Ipay",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.1.png"
+        },
+        {
+          "step": 2,
+          "text": "Click vào “Bắt đầu chụp”",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.2.png"
+        },
+        {
+          "step": 3,
+          "text": "Chụp mặt trước căn cước công dân",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.3.png"
+        },
+        {
+          "step": 4,
+          "text": "Chụp mặt sau căn cước công dân",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.4.png"
+        },
+        {
+          "step": 5,
+          "text": "Click vào nút “Đã hiểu”",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.5.png"
+        },
+        {
+          "step": 6,
+          "text": "Đưa gương mặt vào khung hình",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.6.png"
+        },
+        {
+          "step": 7,
+          "text": "Đặt mặt trước CCCD ngay mặt sau điện thoại để đọc NFC",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.7.png"
+        },
+        {
+          "step": 8,
+          "text": "Bấm tiếp tục",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.8.png"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Hướng dẫn cập nhật sinh trắc học",
+      "videoUrl": "https://www.youtube.com/watch?v=9yYn3SbMT9A",
+      "steps": [
+        {
+          "step": 1,
+          "text": "Đăng nhập VietinBank Ipay",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.1.png"
+        },
+        {
+          "step": 2,
+          "text": "Click vào “Bắt đầu chụp”",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.2.png"
+        },
+        {
+          "step": 3,
+          "text": "Chụp mặt trước căn cước công dân",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.3.png"
+        },
+        {
+          "step": 4,
+          "text": "Chụp mặt sau căn cước công dân",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.4.png"
+        },
+        {
+          "step": 5,
+          "text": "Click vào nút “Đã hiểu”",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.5.png"
+        },
+        {
+          "step": 6,
+          "text": "Đưa gương mặt vào khung hình",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.6.png"
+        },
+        {
+          "step": 7,
+          "text": "Đặt mặt trước CCCD ngay mặt sau điện thoại để đọc NFC",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.7.png"
+        },
+        {
+          "step": 8,
+          "text": "Bấm tiếp tục",
+          "imageUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/3.8.png"
+        }
+      ]
+    }
+  ],
+  "savingsConfig": {
+    "videoUrl": "https://www.tiktok.com/@nguyentrangtkneu/video/7202579533806062875?is_from_webapp=1&sender_device=pc&web_id=7603681770291086866",
+    "terms": [
+      { "id": "1", "label": "1 Tháng", "months": 1, "rate": 3.0 },
+      { "id": "2", "label": "3 Tháng", "months": 3, "rate": 3.3 },
+      { "id": "3", "label": "6 Tháng", "months": 6, "rate": 4.0 },
+      { "id": "4", "label": "9 Tháng", "months": 9, "rate": 4.2 },
+      { "id": "5", "label": "12 Tháng", "months": 12, "rate": 4.7 },
+      { "id": "6", "label": "18 Tháng", "months": 18, "rate": 4.8 },
+      { "id": "7", "label": "24 Tháng", "months": 24, "rate": 5.0 },
+      { "id": "8", "label": "36 Tháng", "months": 36, "rate": 5.0 }
+    ],
+    "minAmount": 1000000,
+    "minAmountWarning": "Vui lòng nhập số tiền gửi hợp lệ (tối thiểu 1,000,000 VND)."
+  },
+  "branchList": [
+    {
+      "id": 1,
+      "name": "Trụ sở chính - CN Bắc Phú Thọ",
+      "address": "Số 3769 đường Hùng Vương, Khu 1, Phường Vân Phú, Phú Thọ",
+      "phone": "0210.3970001",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1857.7846301743398!2d105.34349832652241!3d21.36747892312532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134924582a965d3%3A0x1d0abdf50c3cf7a7!2zTmfDom4gaMOgbmcgVGjGsM_mYmnguG6oWkgQG7lSBQaOG6p24gQ8O0bmcgdGjGsM_mYmnguG6d0IE5hbSBDTiBC4bqvYyBQaMO6IFRo4buNIChWaWV0aW5iYW5rKQ!5e0!3m2!1svi!2s!4v1781584247164!5m2!1svi!2s"
+    },
+    {
+      "id": 2,
+      "name": "PGD Phong Châu - CN Bắc Phú Thọ",
+      "address": "Khu 9, Xã Lâm Thao, Phú Thọ",
+      "phone": "Đang cập nhật",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d475684.4200053823!2d104.7161865234375!3d21.339269333668994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313491e0b40bc9b9%3A0xfa2e41f5465e7c9!2zQ8OUTkcgVFkgVE5ISCBYY0BWgUENDQyBE4bqmVSBLSMONIFRIxIJORyBMT05H!5e0!3m2!1svi!2s!4v1781584685740!5m2!1svi!2s"
+    },
+    {
+      "id": 3,
+      "name": "PGD Tam Nông - CN Bắc Phú Thọ",
+      "address": "Khu 24, Xã Vạn Xuân, Phú Thọ",
+      "phone": "Đang cập nhật",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d237934.68131945547!2d105.01252453234414!3d21.28217656649342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31348f0064e188a7%3A0xbdf062d2a79ff0b7!2zVGnhu4dtIGLDoW5oIELhuqNvIFnhu9u!5e0!3m2!1svi!2s!4v1781593135548!5m2!1svi!2s"
+    },
+    {
+      "id": 4,
+      "name": "PGD Bãi Bằng - CN Bắc Phú Thọ",
+      "address": "Số 220 Khu Đường Nam, Xã Phù Ninh, Phú Thọ",
+      "phone": "Đang cập nhật",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59432.8848387123!2d105.26901319158715!3d21.407407714907443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313493e01fee00bf%3A0x3257d9a3cbbf9ada!2sViettinBank!5e0!3m2!1svi!2s!4v1781593208853!5m2!1svi!2s"
+    },
+    {
+      "id": 5,
+      "name": "PGD Vân Cơ - CN Bắc Phú Thọ",
+      "address": "Số 2989 đường Hùng Vương, Phường Nông Trang, Phú Thọ",
+      "phone": "Đang cập nhật",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d475682.34555091604!2d104.78828430175783!3d21.339908902769686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134928687faeb61%3A0x3d23067589c5863c!2sVietinbank%20-%20Atm!5e0!3m2!1svi!2s!4v1781593305579!5m2!1svi!2s"
+    },
+    {
+      "id": 6,
+      "name": "PGD Văn Lang - CN Bắc Phú Thọ",
+      "address": "Số 2375 đường Hùng Vương, Khu 8, Phường Nông Trang, Phú Thọ",
+      "phone": "Đang cập nhật",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d475721.7515959704!2d104.80270385742189!3d21.327756612981435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31348d61a58e0c07%3A0x6d783b954769fa5c!2zMjM3NSDEkC4gSMO5bmcgVsa0e2wgTsO0bWcgVHJhbmcsIFBow7ogVGjhu4AsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1781593339491!5m2!1svi!2s"
+    },
+    {
+      "id": 7,
+      "name": "PGD Thanh Sơn - CN Bắc Phú Thọ",
+      "address": "Số 64, phố Hoàng Sơn, Xã Thanh Sơn, Phú Thọ",
+      "phone": "Đang cập nhật",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d476091.0741268814!2d104.60357666015624!3d21.21353996963236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31348653c0ab0a0f%3A0xecafd51cffc5e24c!2zMTU5IFFMMzIsIFRoYW5oIFPGoW4sIFBow7ogVGjhu4AsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1781593373690!5m2!1svi!2s"
+    }
+  ]
+}

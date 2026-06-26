@@ -1,0 +1,6 @@
+{
+  "name": "VietinBank Bắc Phú Thọ - Trợ Lý Quầy Giao Dịch",
+  "description": "Ứng dụng tương tác thông minh tại quầy giao dịch VietinBank Bắc Phú Thọ, hỗ trợ khách hàng giải đáp thắc mắc, tính toán tiền lãi tiết kiệm, lập lịch trả nợ vay và tra cứu mạng lưới chi nhánh, phòng giao dịch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
